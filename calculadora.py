@@ -5,7 +5,7 @@ def menu():
     print("2- Restar")
     print("3- Multiplicar")
     print("4- Dividir")
-    print("5- Finalizar programa")
+    print("5- Exponerciar")
     leer_opcion()
 
 def leer_opcion():
